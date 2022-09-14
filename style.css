@@ -1,0 +1,20 @@
+.navbar-toggler-icon{
+    font-size: 0.8em;
+}
+
+#navbarSupportedContent li{
+    text-transform: uppercase;
+    font-size: small;
+    padding-left: 20px;
+}
+
+
+@font-face {
+    font-family: "nameFont";
+    src: url(fonts/Septacharge-jELZv.ttf);
+}
+
+#small {
+    max-width: 80%;
+    height: auto;
+  }
